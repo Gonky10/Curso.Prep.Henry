@@ -1,20 +1,3 @@
-h1 {
-    color: cyan;
+body {
+    background: gray;
 }
-
-img {
-    width: 400px;
-}
-
-#thirdDiv{
-    height: 600px;
-    width: 400px;
-    background: yellow;
-    padding: 50px;
-    border: dashed red;
-}
-
-#spanId{
-    font-size: 18px;
-    margin: 50px;
- }
